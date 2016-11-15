@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Ships Ahoy, Mate!"
-date:   2016-11-14 17:35:17 -0800
+title:  "Ships Ahoy, Mate!!"
+date:   2016-11-14 17:48:36 -0800
 categories: jekyll update
 ---
-This is a placeholder for Ships Ahoy and stuff.  It will be updated soon'ish!
+Ships Ahoy is in the process of getting started, check back and whatnot.
 
 {% highlight ruby %}
 def print_hi(name)
