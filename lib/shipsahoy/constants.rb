@@ -1,0 +1,2 @@
+module ShipsAhoy
+end
